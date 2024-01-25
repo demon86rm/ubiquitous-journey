@@ -19,7 +19,7 @@ The idea is to reference other Charts, Kustomize, YAML snippets from within this
   * [Attribution](./code-of-conduct.md#attribution)
 - [🦄 Ubiquitous Journey 🔥](./README.md#%F0%9F%A6%84-ubiquitous-journey-)
   * [Components](./README.md#components)
-  * [How do I run it? 🏃‍♀️](./README.md#how-do-i-run-it-)
+  * [How do I run it? 🏃‍♀️](./README.md#how-do-i-run-it-%EF%B8%8F)
     + [Prerequisites](./README.md#prerequisites)
     + [Let's go, installing ArgoCD 🏃🏻](./README.md#lets-go-installing-argocd-)
     + [🤠 Deploying the Ubiquitous Journey](./README.md#%F0%9F%A4%A0-deploying-the-ubiquitous-journey)
