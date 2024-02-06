@@ -167,7 +167,7 @@ applications:
 
   # Pact-broker
   - name: pact-broker
-    enabled: true
+    enabled: false
     source: https://redhat-cop.github.io/helm-charts
     source_ref: "0.0.8"
     values:
@@ -175,7 +175,7 @@ applications:
  
    # Hoverfly
   - name: hoverfly
-    enabled: true
+    enabled: false
     source: https://github.com/helm/charts.git
     source_path: incubator/hoverfly
     source_ref: "master"
