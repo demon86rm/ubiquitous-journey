@@ -75,7 +75,7 @@ applications:
   # Sealed Secrets Controller
   # Note you can only have one of these per cluster so be careful 
   - name: sealed-secrets-controller
-    enabled: true
+    enabled: false
     chart_name: sealed-secrets
     source: https://bitnami-labs.github.io/sealed-secrets
     source_ref: "2.1.6"
@@ -132,7 +132,7 @@ applications:
 
   # CodeReady Workspaces
   - name: crw
-    enabled: true
+    enabled: false
     destination: crw
     source: https://github.com/rht-labs/refactored-adventure
     source_path: crw/base
